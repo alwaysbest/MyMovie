@@ -32,10 +32,10 @@
 					<a href="../../../../Users/liuyin/Downloads/blackmovie/rentals.html">Rentals</a>
 				</li>
 				<li>
-					<a href="about.html">About</a>
+					<a href="about.php">About</a>
 				</li>
 				<li>
-					<a href="blog.html">Blog</a>
+					<a href="blog.php">Blog</a>
 				</li>
 			</ul>
 		</div>
@@ -91,16 +91,16 @@
 						<a href="../../../../Users/liuyin/Downloads/blackmovie/rentals.html">Rentals</a>
 					</li>
 					<li>
-						<a href="about.html">Contact</a>
+						<a href="about.php">Contact</a>
 					</li>
 					<li>
 						<a href="../../../../Users/liuyin/Downloads/blackmovie/movies.html">Comming Soon</a>
 					</li>
 					<li>
-						<a href="about.html">The Company</a>
+						<a href="about.php">The Company</a>
 					</li>
 					<li>
-						<a href="blog.html">Blog</a>
+						<a href="blog.php">Blog</a>
 					</li>
 				</ul>
 			</div>

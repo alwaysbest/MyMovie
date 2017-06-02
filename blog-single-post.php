@@ -9,13 +9,13 @@
 <body>
 	<div id="header">
 		<div>
-			<a href="index.html" id="logo"><img src="images/logo.png" alt=""></a>
+			<a href="index.php" id="logo"><img src="images/logo.png" alt=""></a>
 			<ul>
 				<li>
-					<a href="index.html">Home</a>
+					<a href="index.php">Home</a>
 				</li>
 				<li>
-					<a href="movies.html">Movies</a>
+					<a href="movies.php">Movies</a>
 					<ul>
 						<li>
 							<a href="#">Now Showing</a>
@@ -26,56 +26,57 @@
 					</ul>
 				</li>
 				<li>
-					<a href="ticket-info.html">Ticket Info</a>
+					<a href="ticket-info.php">Ticket Info</a>
 				</li>
 				<li>
-					<a href="rentals.html">Rentals</a>
+					<a href="rentals.php">Rentals</a>
 				</li>
 				<li>
-					<a href="about.html">About</a>
+					<a href="about.php">About</a>
 				</li>
 				<li class="selected">
-					<a href="blog.html">Blog</a>
+					<a href="blog.php">Blog</a>
 				</li>
 			</ul>
 		</div>
 	</div>
-	<div id="body" class="blog">
-		<ul>
-			<li>
-				<a href="blog-single-post.html"><img src="images/trainor2.jpg" alt=""></a>
+	<div id="body" class="blog-single">
+		<div>
+			<img src="images/trainor3.jpg" alt="">
+			<div>
+				<h4>Blog Post TItle 1</h4>
+				<span>Posted on August 8, 2023 by <a href="#">Admin</a> in <a href="blog-single-post.php">Category 1</a></span>
+			</div>
+			
+			<p>
+				Vivamus convallis tempor lacus, vel adipiscing risus faucibus ut. Proin lobortis ullamcorper lectus et commodo. Cras lobortis congue lectus, non fringilla urna hendrerit eu. Proin faucibus fringilla lorem, at ultricies sem porta vitae. Phasellus dignissim porttitor lorem, eu eleifend nisi rutrum sed.
+			</p>
+			<div class="comment">
+				<span>1 Comment</span>
+				<p>
+					<img src="images/user.jpg" alt=""> <span>Jane Doe December 3, 2023 at 3:25 pm </span> Pellentesque nec tempor massa. Maecenas tortor elit, ultricies eget placerat ac, eleifend sit amet nunc. Praesent aliquam fermentum semper.
+				</p>
+				<a href="#">Reply</a> <span>Leave A Reply</span>
+			</div>
+			<form action="index.php">
 				<div>
-					<div>
-						<h4><a href="blog-single-post.html">Blog Post TItle 1</a></h4>
-						<span>Posted on August 8, 2023 by <a href="#">Admin</a> in <a href="blog-single-post.html">Category 1</a></span> <a href="blog-single-post.html">1 Comments</a>
-					</div>
-					
-					<a href="blog-single-post.html">Read More</a>
+					<label for="name"><span>Name *</span>
+						<input type="text" id="name">
+					</label>
+					<label for="email"><span>Email *</span>
+						<input type="text" id="email">
+					</label>
+					<label for="website"><span>Website *</span>
+						<input type="text" id="website">
+					</label>
 				</div>
-			</li>
-			<li>
-				<a href="blog-single-post.html"><img src="images/lava2.jpg" alt=""></a>
 				<div>
-					<div>
-						<h4><a href="blog-single-post.html">Blog Post TItle 2</a></h4>
-						<span>Posted on August 8, 2023 by <a href="#">Admin</a> in <a href="blog-single-post.html">Category 1</a></span> <a href="blog-single-post.html">1 Comments</a>
-					</div>
-					
-					<a href="blog-single-post.html">Read More</a>
+					<label for="comment">Comment</label>
+					<textarea name="comment" id="comment" cols="30" rows="10"></textarea>
+					<input type="submit" value="">
 				</div>
-			</li>
-			<li>
-				<a href="blog-single-post.html"><img src="images/castle2.jpg" alt=""></a>
-				<div>
-					<div>
-						<h4><a href="blog-single-post.html">Blog Post TItle 3</a></h4>
-						<span>Posted on August 8, 2023 by <a href="#">Admin</a> in <a href="blog-single-post.html">Category 1</a></span> <a href="blog-single-post.html">1 Comments</a>
-					</div>
-					
-					<a href="blog-single-post.html">Read More</a>
-				</div>
-			</li>
-		</ul>
+			</form>
+		</div>
 		<div>
 			<div>
 				<h4>Categories</h4>
@@ -124,9 +125,6 @@
 				</ul>
 			</div>
 		</div>
-		<div class="section">
-			<a href="#">&#60; Older Posts</a> <a href="#">Newer Posts &#62;</a>
-		</div>
 	</div>
 	<div id="footer">
 		<div>
@@ -134,31 +132,31 @@
 				<span>Quick Links</span>
 				<ul>
 					<li>
-						<a href="index.html">Home</a>
+						<a href="index.php">Home</a>
 					</li>
 					<li>
-						<a href="ticket-info.html">Ticket Info</a>
+						<a href="ticket-info.php">Ticket Info</a>
 					</li>
 					<li>
 						<a href="#">Location</a>
 					</li>
 					<li>
-						<a href="movies.html">Now Showing</a>
+						<a href="../../../../Users/liuyin/Downloads/blackmovie/movies.html">Now Showing</a>
 					</li>
 					<li>
-						<a href="rentals.html">Rentals</a>
+						<a href="../../../../Users/liuyin/Downloads/blackmovie/rentals.html">Rentals</a>
 					</li>
 					<li>
-						<a href="about.html">Contact</a>
+						<a href="about.php">Contact</a>
 					</li>
 					<li>
-						<a href="movies.html">Comming Soon</a>
+						<a href="../../../../Users/liuyin/Downloads/blackmovie/movies.html">Comming Soon</a>
 					</li>
 					<li>
-						<a href="about.html">The Company</a>
+						<a href="about.php">The Company</a>
 					</li>
 					<li>
-						<a href="blog.html">Blog</a>
+						<a href="../../../../Users/liuyin/Downloads/blackmovie/blog.html">Blog</a>
 					</li>
 				</ul>
 			</div>
@@ -184,7 +182,7 @@
 				<p>
 					Praesent at urna ac urna congue convallis. Maecenas sed placerat turpis. Duis in dolor ut nibh molestie faucibus.
 				</p>
-				<form action="index.html">
+				<form action="../../../../Users/liuyin/Downloads/blackmovie/index.html">
 					<input type="text" onclick="this.value='';" onfocus="this.select()" onblur="this.value=!this.value?'Enter Email Address Here':this.value;" value="Enter Email Address Here">
 					<input type="submit" value="">
 				</form>

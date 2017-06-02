@@ -9,13 +9,13 @@
 <body>
 	<div id="header">
 		<div>
-			<a href="index.html" id="logo"><img src="images/logo.png" alt=""></a>
+			<a href="index.php" id="logo"><img src="images/logo.png" alt=""></a>
 			<ul>
 				<li class="selected">
-					<a href="index.html">Home</a>
+					<a href="index.php">Home</a>
 				</li>
 				<li>
-					<a href="movies.html">Movies</a>
+					<a href="movies.php">Movies</a>
 					<ul>
 						<li>
 							<a href="#">Now Showing</a>
@@ -26,16 +26,16 @@
 					</ul>
 				</li>
 				<li>
-					<a href="ticket-info.html">Ticket Info</a>
+					<a href="ticket-info.php">Ticket Info</a>
 				</li>
 				<li>
-					<a href="rentals.html">Rentals</a>
+					<a href="rentals.php">Rentals</a>
 				</li>
 				<li>
-					<a href="about.html">About</a>
+					<a href="about.php">About</a>
 				</li>
 				<li>
-					<a href="blog.html">Blog</a>
+					<a href="blog.php">Blog</a>
 				</li>
 			</ul>
 		</div>
@@ -43,41 +43,41 @@
 	<div id="body" class="home">
 		<div>
 			<div>
-				<a href="movies.html"><img src="images/baby-with-dog.jpg" alt=""></a>
-				<h2><a href="movies.html">Movie Title</a></h2>
+				<a href="movies.php"><img src="images/baby-with-dog.jpg" alt=""></a>
+				<h2><a href="movies.php">Movie Title</a></h2>
 				<p>
 					This website template has been collect from Free Website Templates for you, for free. You can replace all this text with your own text. You can remove any link to our website from this website template, you're free to use this website template without linking back to us. If you're having problems editing this website template, then don't hesitate to ask for help on the Forums.
 				</p>
-				<a href="movies.html">Read More</a>
+				<a href="movies.php">Read More</a>
 			</div>
 			<ul>
 				<li>
 					<h3>Movie Title</h3>
-					<span>Cinema 2</span> <a href="movies.html"><img src="images/surfer.jpg" alt=""></a>
+					<span>Cinema 2</span> <a href="movies.php"><img src="images/surfer.jpg" alt=""></a>
 				</li>
 				<li>
 					<h3>Movie Title</h3>
-					<span>Cinema 3</span> <a href="movies.html"><img src="images/soldiers.jpg" alt=""></a>
+					<span>Cinema 3</span> <a href="movies.php"><img src="images/soldiers.jpg" alt=""></a>
 				</li>
 				<li>
 					<h3>Movie Title</h3>
-					<span>Cinema 4</span> <a href="movies.html"><img src="images/ballet-dancer.jpg" alt=""></a>
+					<span>Cinema 4</span> <a href="movies.php"><img src="images/ballet-dancer.jpg" alt=""></a>
 				</li>
 			</ul>
 		</div>
 		<div>
 			<div>
-				<h3><a href="rentals.html">Rental Services</a></h3>
+				<h3><a href="rentals.php">Rental Services</a></h3>
 				<ul>
 					<li>
-						<a href="rentals.html"><img src="images/conference.jpg" alt=""></a>
+						<a href="rentals.php"><img src="images/conference.jpg" alt=""></a>
 						<h4>Conference Rooms</h4>
 						<p>
 							In sed nibh mauris. Curabitur scelerisque dignissim viverra. Etiam interdum enim nec turpis.
 						</p>
 					</li>
 					<li>
-						<a href="rentals.html"><img src="images/cinema.jpg" alt=""></a>
+						<a href="rentals.php"><img src="images/cinema.jpg" alt=""></a>
 						<h4>Cinema Rental</h4>
 						<p>
 							Donec odio nunc, consectetur fringilla tincidunt nec, cursus vitae ipsum.
@@ -86,35 +86,35 @@
 				</ul>
 			</div>
 			<div>
-				<h3><a href="blog.html">From The Blog</a></h3>
+				<h3><a href="blog.php">From The Blog</a></h3>
 				<ul>
 					<li>
-						<a href="blog.html"><img src="images/trainor.jpg" alt=""></a>
+						<a href="blog.php"><img src="images/trainor.jpg" alt=""></a>
 						<div>
 							<span>Posted on August 8, 2023 by Admin</span>
 							<h4>Blog Post Title One</h4>
 							<p>
-								Donec odio nunc, consectetur fringilla tincidunt nec, cursus vitae ipsum. <a href="blog.html" class="more">Read More</a>
+								Donec odio nunc, consectetur fringilla tincidunt nec, cursus vitae ipsum. <a href="blog.php" class="more">Read More</a>
 							</p>
 						</div>
 					</li>
 					<li>
-						<a href="blog.html"><img src="images/lava.jpg" alt=""></a>
+						<a href="blog.php"><img src="images/lava.jpg" alt=""></a>
 						<div>
 							<span>Posted on August 8, 2023 by Admin</span>
 							<h4>Blog Post Title Two</h4>
 							<p>
-								Donec odio nunc, consectetur fringilla tincidunt nec, cursus vitae ipsum. <a href="blog.html" class="more">Read More</a>
+								Donec odio nunc, consectetur fringilla tincidunt nec, cursus vitae ipsum. <a href="blog.php" class="more">Read More</a>
 							</p>
 						</div>
 					</li>
 					<li>
-						<a href="blog.html"><img src="images/castle.jpg" alt=""></a>
+						<a href="blog.php"><img src="images/castle.jpg" alt=""></a>
 						<div>
 							<span>Posted on August 8, 2023 by Admin</span>
 							<h4>Blog Post Title One</h4>
 							<p>
-								Donec odio nunc, consectetur fringilla tincidunt nec, cursus vitae ipsum. <a href="blog.html" class="more">Read More</a>
+								Donec odio nunc, consectetur fringilla tincidunt nec, cursus vitae ipsum. <a href="blog.php" class="more">Read More</a>
 							</p>
 						</div>
 					</li>
@@ -128,31 +128,31 @@
 				<span>Quick Links</span>
 				<ul>
 					<li>
-						<a href="index.html">Home</a>
+						<a href="index.php">Home</a>
 					</li>
 					<li>
-						<a href="ticket-info.html">Ticket Info</a>
+						<a href="ticket-info.php">Ticket Info</a>
 					</li>
 					<li>
 						<a href="#">Location</a>
 					</li>
 					<li>
-						<a href="movies.html">Now Showing</a>
+						<a href="movies.php">Now Showing</a>
 					</li>
 					<li>
-						<a href="rentals.html">Rentals</a>
+						<a href="rentals.php">Rentals</a>
 					</li>
 					<li>
-						<a href="about.html">Contact</a>
+						<a href="about.php">Contact</a>
 					</li>
 					<li>
-						<a href="movies.html">Comming Soon</a>
+						<a href="movies.php">Comming Soon</a>
 					</li>
 					<li>
-						<a href="about.html">The Company</a>
+						<a href="about.php">The Company</a>
 					</li>
 					<li>
-						<a href="blog.html">Blog</a>
+						<a href="blog.php">Blog</a>
 					</li>
 				</ul>
 			</div>
@@ -178,7 +178,7 @@
 				<p>
 					Praesent at urna ac urna congue convallis. Maecenas sed placerat turpis. Duis in dolor ut nibh molestie faucibus.
 				</p>
-				<form action="about.html">
+				<form action="about.php">
 					<input type="text" onclick="this.value='';" onfocus="this.select()" onblur="this.value=!this.value?'Enter Email Address Here':this.value;" value="Enter Email Address Here">
 					<input type="submit" value="">
 				</form>

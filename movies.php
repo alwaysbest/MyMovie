@@ -9,13 +9,13 @@
 <body>
 	<div id="header">
 		<div>
-			<a href="index.html" id="logo"><img src="images/logo.png" alt=""></a>
+			<a href="index.php" id="logo"><img src="images/logo.png" alt=""></a>
 			<ul>
 				<li>
-					<a href="index.html">Home</a>
+					<a href="index.php">Home</a>
 				</li>
 				<li class="selected">
-					<a href="movies.html">Movies</a>
+					<a href="movies.php">Movies</a>
 					<ul>
 						<li class="selected">
 							<a href="#">Now Showing</a>
@@ -26,16 +26,16 @@
 					</ul>
 				</li>
 				<li>
-					<a href="ticket-info.html">Ticket Info</a>
+					<a href="ticket-info.php">Ticket Info</a>
 				</li>
 				<li>
-					<a href="rentals.html">Rentals</a>
+					<a href="rentals.php">Rentals</a>
 				</li>
 				<li>
-					<a href="about.html">About</a>
+					<a href="about.php">About</a>
 				</li>
 				<li>
-					<a href="blog.html">Blog</a>
+					<a href="blog.php">Blog</a>
 				</li>
 			</ul>
 		</div>
@@ -44,36 +44,36 @@
 		<h2>Movies</h2>
 		<ul>
 			<li>
-				<a href="movie-details.html"><img src="images/baby-with-dog2.jpg" alt=""></a>
+				<a href="movie-details.php"><img src="images/baby-with-dog2.jpg" alt=""></a>
 				<h3>Movie Title</h3>
 				<p>
 					This website template has been collect from Free Website Templates for you, for free. You can replace all this text with your own text. You can remove any link to our website from this website template, you're free to use this website template without linking back to us. If you're having problems editing this websitetemplate, then don't hesitate to ask for help on the Forums. You can replace all this text.
 				</p>
-				<a href="movie-details.html">Read More</a>
+				<a href="movie-details.php">Read More</a>
 			</li>
 			<li>
-				<a href="movie-details.html"><img src="images/surfers.jpg" alt=""></a>
+				<a href="movie-details.php"><img src="images/surfers.jpg" alt=""></a>
 				<h3>Movie Title</h3>
 				<p>
 					This website template has been collect from Free Website Templates for you, for free. You can replace all this text with your own text. You can remove any link to our website from this website template, you're free to use this website template without linking back to us. If you're having problems editing this websitetemplate, then don't hesitate to ask for help on the Forums. You can replace all this text.
 				</p>
-				<a href="movie-details.html">Read More</a>
+				<a href="movie-details.php">Read More</a>
 			</li>
 			<li>
-				<a href="movie-details.html"><img src="images/soldiers2.jpg" alt=""></a>
+				<a href="movie-details.php"><img src="images/soldiers2.jpg" alt=""></a>
 				<h3>Movie Title</h3>
 				<p>
 					This website template has been collect from Free Website Templates for you, for free. You can replace all this text with your own text. You can remove any link to our website from this website template, you're free to use this website template without linking back to us. If you're having problems editing this websitetemplate, then don't hesitate to ask for help on the Forums. You can replace all this text.
 				</p>
-				<a href="movie-details.html">Read More</a>
+				<a href="movie-details.php">Read More</a>
 			</li>
 			<li>
-				<a href="movie-details.html"><img src="images/ballet-dancer2.jpg" alt=""></a>
+				<a href="movie-details.php"><img src="images/ballet-dancer2.jpg" alt=""></a>
 				<h3>Movie Title</h3>
 				<p>
 					This website template has been collect from Free Website Templates for you, for free. You can replace all this text with your own text. You can remove any link to our website from this website template, you're free to use this website template without linking back to us. If you're having problems editing this websitetemplate, then don't hesitate to ask for help on the Forums. You can replace all this text.
 				</p>
-				<a href="movie-details.html">Read More</a>
+				<a href="movie-details.php">Read More</a>
 			</li>
 		</ul>
 	</div>
@@ -83,31 +83,31 @@
 				<span>Quick Links</span>
 				<ul>
 					<li>
-						<a href="index.html">Home</a>
+						<a href="index.php">Home</a>
 					</li>
 					<li>
-						<a href="ticket-info.html">Ticket Info</a>
+						<a href="ticket-info.php">Ticket Info</a>
 					</li>
 					<li>
 						<a href="#">Location</a>
 					</li>
 					<li>
-						<a href="movies.html">Now Showing</a>
+						<a href="movies.php">Now Showing</a>
 					</li>
 					<li>
-						<a href="rentals.html">Rentals</a>
+						<a href="rentals.php">Rentals</a>
 					</li>
 					<li>
-						<a href="about.html">Contact</a>
+						<a href="about.php">Contact</a>
 					</li>
 					<li>
-						<a href="movies.html">Comming Soon</a>
+						<a href="movies.php">Comming Soon</a>
 					</li>
 					<li>
-						<a href="about.html">The Company</a>
+						<a href="about.php">The Company</a>
 					</li>
 					<li>
-						<a href="blog.html">Blog</a>
+						<a href="blog.php">Blog</a>
 					</li>
 				</ul>
 			</div>
@@ -133,7 +133,7 @@
 				<p>
 					Praesent at urna ac urna congue convallis. Maecenas sed placerat turpis. Duis in dolor ut nibh molestie faucibus.
 				</p>
-				<form action="index.html">
+				<form action="index.php">
 					<input type="text" onclick="this.value='';" onfocus="this.select()" onblur="this.value=!this.value?'Enter Email Address Here':this.value;" value="Enter Email Address Here">
 					<input type="submit" value="">
 				</form>
