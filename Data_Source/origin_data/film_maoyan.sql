@@ -13,6 +13,8 @@ File Encoding         : 65001
 Date: 2017-06-02 11:31:59
 */
 
+use film_maoyan;
+
 SET FOREIGN_KEY_CHECKS=0;
 
 -- ----------------------------

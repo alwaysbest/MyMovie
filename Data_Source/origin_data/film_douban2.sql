@@ -13,6 +13,8 @@ File Encoding         : 65001
 Date: 2017-06-02 11:31:48
 */
 
+use film_douban2;
+
 SET FOREIGN_KEY_CHECKS=0;
 
 -- ----------------------------
