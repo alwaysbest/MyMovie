@@ -1,6 +1,48 @@
 <!DOCTYPE html>
 
 <html>
+<?php
+include_once ('Film.php');
+$film = new Film();
+
+$sixfilm = $film->_getSixFilm();
+$sevenfilm = $film->_getSevenFilm();
+$eightfilm = $film->_getEightFilm();
+$ninefilm = $film->_getNineFilm();
+
+$sixdir = $film->_getSixDir();
+$sixscore = $film->_getSixScore();
+$sixshow = $film->_getSixShow();
+$sixact = $film->_getSixAct();
+$sixdura = $film->_getSixDura();
+
+$sevendir = $film->_getSevenDir();
+$sevenscore = $film->_getSevenScore();
+$sevenshow = $film->_getSevenShow();
+$sevenact = $film->_getSevenAct();
+$sevendura = $film->_getSevenDura();
+
+
+$eightdir = $film->_getEightDir();
+$eightscore = $film->_getEightScore();
+$eightshow = $film->_getEightShow();
+$eightact = $film->_getEightAct();
+$eightdura = $film->_getEightDura();
+
+$ninedir = $film->_getNineDir();
+$ninescore = $film->_getNineScore();
+$nineshow = $film->_getNineShow();
+$nineact = $film->_getNineAct();
+$ninedura = $film->_getNineDura();
+
+
+$sixtype = $film->_getSixType();
+$seventype = $film->_getSevenType();
+$eighttype = $film->_getEightType();
+$ninetype = $film->_getNineType();
+
+
+?>
 <head>
 	<meta charset="UTF-8">
 	<title>Movies - Movie+</title>
@@ -11,10 +53,10 @@
 		<div>
 			<a href="index.php" id="logo"><img src="images/logo.png" alt=""></a>
 			<ul>
-				<li>
+				<li style="width: 250px">
 					<a href="index.php">Home</a>
 				</li>
-				<li class="selected">
+				<li class="selected" style="width: 250px">
 					<a href="movies.php">Movies</a>
 
 				</li>
@@ -29,36 +71,96 @@
 		<h2>Movies</h2>
 		<ul>
 			<li>
-				<a href="movie-details.php"><img src="images/baby-with-dog2.jpg" alt=""></a>
-				<h3>Movie Title</h3>
+				<img src="images/baby-with-dog2.jpg" alt="">
+				<h3><?php echo $sixfilm?></h3>
 				<p>
-					This website template has been collect from Free Website Templates for you, for free. You can replace all this text with your own text. You can remove any link to our website from this website template, you're free to use this website template without linking back to us. If you're having problems editing this websitetemplate, then don't hesitate to ask for help on the Forums. You can replace all this text.
+					<span>Type:</span> <?php echo $sixtype?>
 				</p>
-				<a href="movie-details.php">Read More</a>
+				<p>
+					<span>Actor:</span> <?php echo $sixact?>
+				</p>
+				<p>
+					<span>Directed By:</span> <?php echo $sixdir?>
+				</p>
+				<p>
+					<span>Runs For:</span> <?php echo $sixdura?>
+				</p>
+				<p>
+					<span>Showtime:</span> <?php echo $sixshow?>
+				</p>
+				<p>
+					<span>Score:</span> <?php echo $sixscore?>
+				</p>
+
 			</li>
 			<li>
-				<a href="movie-details.php"><img src="images/surfers.jpg" alt=""></a>
-				<h3>Movie Title</h3>
+			<img src="images/surfers.jpg" alt="">
+				<h3><?php echo $sevenfilm?></h3>
 				<p>
-					This website template has been collect from Free Website Templates for you, for free. You can replace all this text with your own text. You can remove any link to our website from this website template, you're free to use this website template without linking back to us. If you're having problems editing this websitetemplate, then don't hesitate to ask for help on the Forums. You can replace all this text.
+					<span>Type:</span> <?php echo $seventype?>
 				</p>
-				<a href="movie-details.php">Read More</a>
+				<p>
+					<span>Actor:</span> <?php echo $sevenact?>
+				</p>
+				<p>
+					<span>Directed By:</span> <?php echo $sevendir?>
+				</p>
+				<p>
+					<span>Runs For:</span> <?php echo $sevendura?>
+				</p>
+				<p>
+					<span>Showtime:</span> <?php echo $sevenshow?>
+				</p>
+				<p>
+					<span>Score:</span> <?php echo $sevenscore?>
+				</p>
+
 			</li>
 			<li>
-				<a href="movie-details.php"><img src="images/soldiers2.jpg" alt=""></a>
-				<h3>Movie Title</h3>
+				<img src="images/soldiers2.jpg" alt="">
+				<h3><?php echo $eightfilm?></h3>
 				<p>
-					This website template has been collect from Free Website Templates for you, for free. You can replace all this text with your own text. You can remove any link to our website from this website template, you're free to use this website template without linking back to us. If you're having problems editing this websitetemplate, then don't hesitate to ask for help on the Forums. You can replace all this text.
+					<span>Type:</span> <?php echo $eighttype?>
 				</p>
-				<a href="movie-details.php">Read More</a>
+				<p>
+					<span>Actor:</span> <?php echo $eightact?>
+				</p>
+				<p>
+					<span>Directed By:</span> <?php echo $eightdir?>
+				</p>
+				<p>
+					<span>Runs For:</span> <?php echo $eightdura?>
+				</p>
+				<p>
+					<span>Showtime:</span> <?php echo $eightshow?>
+				</p>
+				<p>
+					<span>Score:</span> <?php echo $eightscore?>
+				</p>
+
 			</li>
 			<li>
-				<a href="movie-details.php"><img src="images/ballet-dancer2.jpg" alt=""></a>
-				<h3>Movie Title</h3>
+				<img src="images/ballet-dancer2.jpg" alt="">
+				<h3><?php echo $ninefilm?></h3>
 				<p>
-					This website template has been collect from Free Website Templates for you, for free. You can replace all this text with your own text. You can remove any link to our website from this website template, you're free to use this website template without linking back to us. If you're having problems editing this websitetemplate, then don't hesitate to ask for help on the Forums. You can replace all this text.
+					<span>Type:</span> <?php echo $ninetype?>
 				</p>
-				<a href="movie-details.php">Read More</a>
+				<p>
+					<span>Actor:</span> <?php echo $nineact?>
+				</p>
+				<p>
+					<span>Directed By:</span> <?php echo $ninedir?>
+				</p>
+				<p>
+					<span>Runs For:</span> <?php echo $ninedura?>
+				</p>
+				<p>
+					<span>Showtime:</span> <?php echo $nineshow?>
+				</p>
+				<p>
+					<span>Score:</span> <?php echo $ninescore?>
+				</p>
+
 			</li>
 		</ul>
 	</div>

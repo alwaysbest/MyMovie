@@ -17,7 +17,7 @@
       <schema id="6" name="sys"/>
       <table id="7" parent="1" name="film_comment"/>
       <table id="8" parent="1" name="film_info"/>
-      <column id="9" parent="7" name="id">
+      <column id="9" parent="7" name="fid">
         <mandatory>1</mandatory>
         <data-type>int(11)|0</data-type>
       </column>
@@ -33,36 +33,39 @@
       <column id="13" parent="7" name="content">
         <data-type>varchar(10000)|0</data-type>
       </column>
-      <column id="14" parent="8" name="id">
+      <column id="14" parent="7" name="id">
+        <data-type>int(11)|0</data-type>
+      </column>
+      <column id="15" parent="8" name="id">
         <mandatory>1</mandatory>
         <data-type>int(11)|0</data-type>
       </column>
-      <column id="15" parent="8" name="name">
+      <column id="16" parent="8" name="name">
         <mandatory>1</mandatory>
         <data-type>varchar(45)|0</data-type>
       </column>
-      <column id="16" parent="8" name="director">
+      <column id="17" parent="8" name="director">
         <data-type>varchar(45)|0</data-type>
       </column>
-      <column id="17" parent="8" name="actor">
+      <column id="18" parent="8" name="actor">
         <data-type>varchar(45)|0</data-type>
       </column>
-      <column id="18" parent="8" name="score">
+      <column id="19" parent="8" name="score">
         <data-type>double|0</data-type>
       </column>
-      <column id="19" parent="8" name="show_time">
+      <column id="20" parent="8" name="show_time">
         <data-type>varchar(45)|0</data-type>
       </column>
-      <column id="20" parent="8" name="types">
+      <column id="21" parent="8" name="types">
         <data-type>varchar(45)|0</data-type>
       </column>
-      <column id="21" parent="8" name="description">
+      <column id="22" parent="8" name="description">
         <data-type>varchar(45)|0</data-type>
       </column>
-      <column id="22" parent="8" name="duration">
+      <column id="23" parent="8" name="duration">
         <data-type>int(11)|0</data-type>
       </column>
-      <key id="23" parent="8" name="PRIMARY">
+      <key id="24" parent="8" name="PRIMARY">
         <columns>id</columns>
         <primary>1</primary>
       </key>

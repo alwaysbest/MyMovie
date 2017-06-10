@@ -32,6 +32,20 @@
         <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
       </PATH_ELEMENT>
     </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="MySQL - MyMovie@localhost" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="film_comment" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
@@ -39,31 +53,237 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MyMovie.film_info" pinned="false" current-in-tab="false">
-        <entry file="dbDummy://dbtable:/d48508ee/4df11991-6510-4728-9a29-5c80d838736c/MyMovie.film_info">
-          <provider editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+      <file leaf-file-name="blog-single-twofilm.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog-single-twofilm.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="183" selection-end-column="7" />
               <folding />
-            </state>
-          </provider>
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state>
-              <filtering enabled="true" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Film.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="blog-single-threefilm.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blog-single-threefilm.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="112" column="21" selection-start-line="112" selection-start-column="21" selection-end-line="112" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blog-single-fourfilm.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog-single-fourfilm.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="106" column="21" selection-start-line="106" selection-start-column="21" selection-end-line="106" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blog-single-fivefilm.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog-single-fivefilm.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="106" column="20" selection-start-line="106" selection-start-column="20" selection-end-line="106" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="twoBlog.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/twoBlog.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1095">
+              <caret line="74" column="0" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Film.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Film.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="24" column="84" selection-start-line="24" selection-start-column="84" selection-end-line="24" selection-end-column="84" />
+            <state relative-caret-position="225">
+              <caret line="613" column="5" selection-start-line="613" selection-start-column="5" selection-end-line="613" selection-end-column="5" />
               <folding>
-                <marker date="1497113799000" expanded="true" signature="463:505" ph="select name film_info" />
-                <marker date="1497113799000" expanded="true" signature="463:515" ph="select name film_info" />
-                <marker date="1497113799000" expanded="true" signature="515:517" ph="select name film_info" />
-                <marker date="1497113799000" expanded="true" signature="612:664" ph="select name film_info" />
+                <marker date="1497130806000" expanded="true" signature="463:505" ph="select name film_info" />
+                <marker date="1497130806000" expanded="true" signature="463:515" ph="select name film_info" />
+                <marker date="1497130806000" expanded="true" signature="515:517" ph="select name film_info" />
+                <marker date="1497130806000" expanded="true" signature="613:672" ph="select descr... film_info" />
+                <marker date="1497130806000" expanded="true" signature="770:821" ph="select name film_info" />
+                <marker date="1497130806000" expanded="true" signature="919:978" ph="select descr... film_info" />
+                <marker date="1497130806000" expanded="true" signature="1078:1130" ph="select name film_info" />
+                <marker date="1497130806000" expanded="true" signature="1229:1287" ph="select descr... film_info" />
+                <marker date="1497130806000" expanded="true" signature="1388:1440" ph="select name film_info" />
+                <marker date="1497130806000" expanded="true" signature="1537:1595" ph="select descr... film_info" />
+                <marker date="1497130806000" expanded="true" signature="1695:1747" ph="select name film_info" />
+                <marker date="1497130806000" expanded="true" signature="1844:1903" ph="select descr... film_info" />
+                <marker date="1497130806000" expanded="true" signature="2002:2054" ph="select name film_info" />
+                <marker date="1497130806000" expanded="true" signature="2151:2210" ph="select descr... film_info" />
+                <marker date="1497130806000" expanded="true" signature="2309:2361" ph="select name film_info" />
+                <marker date="1497130806000" expanded="true" signature="2460:2519" ph="select descr... film_info" />
+                <marker date="1497130806000" expanded="true" signature="2621:2673" ph="select name film_info" />
+                <marker date="1497130806000" expanded="true" signature="2772:2830" ph="select descr... film_info" />
+                <marker date="1497130806000" expanded="true" signature="2930:2982" ph="select name film_info" />
+                <marker date="1497130806000" expanded="true" signature="3080:3138" ph="select descr... film_info" />
+                <marker date="1497130806000" expanded="true" signature="3236:3291" ph="select direc... film_info" />
+                <marker date="1497130806000" expanded="true" signature="3388:3440" ph="select actor... film_info" />
+                <marker date="1497130806000" expanded="true" signature="3537:3593" ph="select show_... film_info" />
+                <marker date="1497130806000" expanded="true" signature="3539:3593" ph="select actor... film_info" />
+                <marker date="1497130806000" expanded="true" signature="3691:3743" ph="select score... film_info" />
+                <marker date="1497130806000" expanded="true" signature="3840:3895" ph="select durat... film_info" />
+                <marker date="1497130806000" expanded="true" signature="3993:4048" ph="select direc... film_info" />
+                <marker date="1497130806000" expanded="true" signature="4145:4197" ph="select actor... film_info" />
+                <marker date="1497130806000" expanded="true" signature="4294:4350" ph="select show_... film_info" />
+                <marker date="1497130806000" expanded="true" signature="4448:4500" ph="select score... film_info" />
+                <marker date="1497130806000" expanded="true" signature="4597:4652" ph="select durat... film_info" />
+                <marker date="1497130806000" expanded="true" signature="4756:4811" ph="select direc... film_info" />
+                <marker date="1497130806000" expanded="true" signature="4910:4962" ph="select actor... film_info" />
+                <marker date="1497130806000" expanded="true" signature="5061:5117" ph="select show_... film_info" />
+                <marker date="1497130806000" expanded="true" signature="5217:5269" ph="select score... film_info" />
+                <marker date="1497130806000" expanded="true" signature="5368:5423" ph="select durat... film_info" />
+                <marker date="1497130806000" expanded="true" signature="5524:5579" ph="select direc... film_info" />
+                <marker date="1497130806000" expanded="true" signature="5677:5729" ph="select actor... film_info" />
+                <marker date="1497130806000" expanded="true" signature="5827:5883" ph="select show_... film_info" />
+                <marker date="1497130806000" expanded="true" signature="5982:6034" ph="select score... film_info" />
+                <marker date="1497130806000" expanded="true" signature="6132:6187" ph="select durat... film_info" />
+                <marker date="1497130806000" expanded="true" signature="6287:6342" ph="select direc... film_info" />
+                <marker date="1497130806000" expanded="true" signature="6440:6492" ph="select actor... film_info" />
+                <marker date="1497130806000" expanded="true" signature="6590:6646" ph="select show_... film_info" />
+                <marker date="1497130806000" expanded="true" signature="6745:6797" ph="select score... film_info" />
+                <marker date="1497130806000" expanded="true" signature="6895:6950" ph="select durat... film_info" />
+                <marker date="1497130806000" expanded="true" signature="7049:7104" ph="select direc... film_info" />
+                <marker date="1497130806000" expanded="true" signature="7201:7253" ph="select actor... film_info" />
+                <marker date="1497130806000" expanded="true" signature="7350:7406" ph="select show_... film_info" />
+                <marker date="1497130806000" expanded="true" signature="7504:7556" ph="select score... film_info" />
+                <marker date="1497130806000" expanded="true" signature="7653:7708" ph="select durat... film_info" />
+                <marker date="1497130806000" expanded="true" signature="7811:7866" ph="select direc... film_info" />
+                <marker date="1497130806000" expanded="true" signature="7965:8017" ph="select actor... film_info" />
+                <marker date="1497130806000" expanded="true" signature="8116:8172" ph="select show_... film_info" />
+                <marker date="1497130806000" expanded="true" signature="8272:8324" ph="select score... film_info" />
+                <marker date="1497130806000" expanded="true" signature="8423:8478" ph="select durat... film_info" />
+                <marker date="1497130806000" expanded="true" signature="8579:8634" ph="select direc... film_info" />
+                <marker date="1497130806000" expanded="true" signature="8733:8785" ph="select actor... film_info" />
+                <marker date="1497130806000" expanded="true" signature="8884:8940" ph="select show_... film_info" />
+                <marker date="1497130806000" expanded="true" signature="9040:9092" ph="select score... film_info" />
+                <marker date="1497130806000" expanded="true" signature="9191:9246" ph="select durat... film_info" />
+                <marker date="1497130806000" expanded="true" signature="9346:9401" ph="select direc... film_info" />
+                <marker date="1497130806000" expanded="true" signature="9499:9551" ph="select actor... film_info" />
+                <marker date="1497130806000" expanded="true" signature="9649:9705" ph="select show_... film_info" />
+                <marker date="1497130806000" expanded="true" signature="9804:9856" ph="select score... film_info" />
+                <marker date="1497130806000" expanded="true" signature="9954:10009" ph="select durat... film_info" />
+                <marker date="1497130806000" expanded="true" signature="10108:10160" ph="select types... film_info" />
+                <marker date="1497130806000" expanded="true" signature="10257:10309" ph="select types... film_info" />
+                <marker date="1497130806000" expanded="true" signature="10408:10460" ph="select types... film_info" />
+                <marker date="1497130806000" expanded="true" signature="10558:10610" ph="select types... film_info" />
+                <marker date="1497130806000" expanded="true" signature="10708:10760" ph="select types... film_info" />
+                <marker date="1497130806000" expanded="true" signature="10857:10909" ph="select types... film_info" />
+                <marker date="1497130806000" expanded="true" signature="11009:11061" ph="select types... film_info" />
+                <marker date="1497130806000" expanded="true" signature="11161:11213" ph="select types... film_info" />
+                <marker date="1497130806000" expanded="true" signature="11312:11364" ph="select types... film_info" />
+                <marker date="1497130806000" expanded="true" signature="11465:11520" ph="select conte... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="11619:11671" ph="select s fro... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="11771:11824" ph="select score... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="11924:11978" ph="select usefu... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="12077:12132" ph="select conte... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="12231:12283" ph="select user film_comment" />
+                <marker date="1497130806000" expanded="true" signature="12383:12436" ph="select score... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="12536:12590" ph="select usefu... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="12690:12745" ph="select conte... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="12844:12896" ph="select user film_comment" />
+                <marker date="1497130806000" expanded="true" signature="12996:13049" ph="select score... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="13149:13203" ph="select usefu... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="13303:13358" ph="select conte... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="13457:13509" ph="select user film_comment" />
+                <marker date="1497130806000" expanded="true" signature="13609:13662" ph="select score... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="13762:13816" ph="select usefu... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="13915:13970" ph="select conte... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="14069:14121" ph="select user film_comment" />
+                <marker date="1497130806000" expanded="true" signature="14221:14274" ph="select score... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="14374:14428" ph="select usefu... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="14528:14585" ph="select conte... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="14684:14738" ph="select user film_comment" />
+                <marker date="1497130806000" expanded="true" signature="14838:14893" ph="select score... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="14993:15049" ph="select usefu... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="15148:15205" ph="select conte... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="15304:15358" ph="select user film_comment" />
+                <marker date="1497130806000" expanded="true" signature="15458:15513" ph="select score... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="15613:15669" ph="select usefu... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="15769:15826" ph="select conte... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="15925:15979" ph="select user film_comment" />
+                <marker date="1497130806000" expanded="true" signature="16079:16134" ph="select score... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="16234:16290" ph="select usefu... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="16390:16447" ph="select conte... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="16546:16600" ph="select user film_comment" />
+                <marker date="1497130806000" expanded="true" signature="16700:16755" ph="select score... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="16855:16911" ph="select usefu... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="17010:17067" ph="select conte... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="17166:17220" ph="select user film_comment" />
+                <marker date="1497130806000" expanded="true" signature="17320:17375" ph="select score... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="17475:17531" ph="select usefu... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="17634:17691" ph="select conte... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="17792:17846" ph="select user film_comment" />
+                <marker date="1497130806000" expanded="true" signature="17948:18003" ph="select score... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="18106:18162" ph="select usefu... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="18263:18320" ph="select conte... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="18421:18475" ph="select user film_comment" />
+                <marker date="1497130806000" expanded="true" signature="18577:18632" ph="select score... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="18734:18790" ph="select usefu... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="18892:18949" ph="select conte... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="19050:19104" ph="select user film_comment" />
+                <marker date="1497130806000" expanded="true" signature="19206:19261" ph="select score... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="19363:19419" ph="select usefu... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="19521:19578" ph="select conte... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="19679:19733" ph="select user film_comment" />
+                <marker date="1497130806000" expanded="true" signature="19835:19890" ph="select score... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="19992:20048" ph="select usefu... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="20149:20206" ph="select conte... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="20307:20361" ph="select user film_comment" />
+                <marker date="1497130806000" expanded="true" signature="20463:20518" ph="select score... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="20620:20676" ph="select usefu... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="20777:20834" ph="select conte... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="20934:20988" ph="select user film_comment" />
+                <marker date="1497130806000" expanded="true" signature="21089:21144" ph="select score... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="21245:21301" ph="select usefu... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="21401:21458" ph="select conte... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="21558:21612" ph="select user film_comment" />
+                <marker date="1497130806000" expanded="true" signature="21713:21768" ph="select score... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="21869:21925" ph="select usefu... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="22026:22083" ph="select conte... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="22183:22237" ph="select user film_comment" />
+                <marker date="1497130806000" expanded="true" signature="22338:22393" ph="select score... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="22494:22550" ph="select usefu... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="22651:22708" ph="select conte... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="22808:22862" ph="select user film_comment" />
+                <marker date="1497130806000" expanded="true" signature="22963:23018" ph="select score... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="23119:23175" ph="select usefu... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="23275:23332" ph="select conte... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="23432:23486" ph="select user film_comment" />
+                <marker date="1497130806000" expanded="true" signature="23587:23642" ph="select score... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="23743:23799" ph="select usefu... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="23902:23959" ph="select conte... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="24059:24113" ph="select user film_comment" />
+                <marker date="1497130806000" expanded="true" signature="24214:24269" ph="select score... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="24370:24426" ph="select usefu... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="24526:24583" ph="select conte... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="24683:24737" ph="select user film_comment" />
+                <marker date="1497130806000" expanded="true" signature="24838:24893" ph="select score... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="24994:25050" ph="select usefu... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="25151:25208" ph="select conte... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="25308:25362" ph="select user film_comment" />
+                <marker date="1497130806000" expanded="true" signature="25463:25518" ph="select score... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="25619:25675" ph="select usefu... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="25776:25833" ph="select conte... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="25933:25987" ph="select user film_comment" />
+                <marker date="1497130806000" expanded="true" signature="26088:26143" ph="select score... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="26244:26300" ph="select usefu... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="26400:26457" ph="select conte... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="26557:26611" ph="select user film_comment" />
+                <marker date="1497130806000" expanded="true" signature="26712:26767" ph="select score... film_comment" />
+                <marker date="1497130806000" expanded="true" signature="26868:26924" ph="select usefu... film_comment" />
               </folding>
             </state>
           </provider>
@@ -87,14 +307,20 @@
         <option value="$PROJECT_DIR$/rentals.html" />
         <option value="$PROJECT_DIR$/ticket-info.html" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/4df11991-6510-4728-9a29-5c80d838736c/console.sql" />
-        <option value="$PROJECT_DIR$/Film.php" />
         <option value="$PROJECT_DIR$/about.php" />
-        <option value="$PROJECT_DIR$/blog-single-post.php" />
-        <option value="$PROJECT_DIR$/movies.php" />
         <option value="$PROJECT_DIR$/movie-details.php" />
+        <option value="dbtable:/d48508ee/4df11991-6510-4728-9a29-5c80d838736c/MyMovie.film_comment" />
         <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/twoBlog.php" />
+        <option value="$PROJECT_DIR$/movies.php" />
+        <option value="$PROJECT_DIR$/blog-single-post.php" />
+        <option value="$PROJECT_DIR$/bolg-single-twofilm.php" />
+        <option value="$PROJECT_DIR$/blog-single-twofilm.php" />
         <option value="$PROJECT_DIR$/blog.php" />
+        <option value="$PROJECT_DIR$/twoBlog.php" />
+        <option value="$PROJECT_DIR$/Film.php" />
+        <option value="$PROJECT_DIR$/blog-single-fivefilm.php" />
+        <option value="$PROJECT_DIR$/blog-single-fourfilm.php" />
+        <option value="$PROJECT_DIR$/blog-single-threefilm.php" />
       </list>
     </option>
   </component>
@@ -109,7 +335,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="149" />
+    <option name="x" value="179" />
     <option name="y" value="23" />
     <option name="width" value="1092" />
     <option name="height" value="728" />
@@ -241,15 +467,15 @@
       <workItem from="1496287840041" duration="64000" />
       <workItem from="1496287917685" duration="4553000" />
       <workItem from="1496366043640" duration="2390000" />
-      <workItem from="1496909270536" duration="8287000" />
+      <workItem from="1496909270536" duration="23116000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15294000" />
+    <option name="totallyTimeSpent" value="30123000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="149" y="23" width="1092" height="728" extended-state="0" />
+    <frame x="179" y="23" width="1092" height="728" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32928678" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -308,7 +534,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2850">
           <caret line="190" column="39" selection-start-line="190" selection-start-column="39" selection-end-line="190" selection-end-column="39" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -317,22 +546,7 @@
         <state relative-caret-position="2505">
           <caret line="167" column="4" selection-start-line="167" selection-start-column="4" selection-end-line="167" selection-end-column="4" />
           <folding>
-            <marker date="1497115932000" expanded="true" signature="1269:1689" ph="..." />
-            <marker date="1497115932000" expanded="true" signature="1278:1403" ph="..." />
-            <marker date="1497115932000" expanded="true" signature="1412:1539" ph="..." />
-            <marker date="1497115932000" expanded="true" signature="1548:1680" ph="..." />
-            <marker date="1497115932000" expanded="true" signature="2515:3667" ph="..." />
-            <marker date="1497115932000" expanded="true" signature="2523:3658" ph="..." />
-            <marker date="1497115932000" expanded="true" signature="2580:3648" ph="..." />
-            <marker date="1497115932000" expanded="true" signature="2590:2934" ph="..." />
-            <marker date="1497115932000" expanded="true" signature="2669:2923" ph="..." />
-            <marker date="1497115932000" expanded="true" signature="2770:2910" ph="..." />
-            <marker date="1497115932000" expanded="true" signature="2944:3285" ph="..." />
-            <marker date="1497115932000" expanded="true" signature="3020:3274" ph="..." />
-            <marker date="1497115932000" expanded="true" signature="3121:3261" ph="..." />
-            <marker date="1497115932000" expanded="true" signature="3295:3638" ph="..." />
-            <marker date="1497115932000" expanded="true" signature="3373:3627" ph="..." />
-            <marker date="1497115932000" expanded="true" signature="3474:3614" ph="..." />
+            <marker date="1497124743000" expanded="true" signature="2893:3999" ph="..." />
           </folding>
         </state>
       </provider>
@@ -436,22 +650,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/movies.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="64" column="0" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/movie-details.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/twoBlog.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -460,59 +658,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog-single-post.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/twoBlog.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1755">
-          <caret line="117" column="7" selection-start-line="117" selection-start-column="7" selection-end-line="117" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="100" column="12" selection-start-line="100" selection-start-column="12" selection-end-line="100" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
-          <folding>
-            <marker date="1497115932000" expanded="true" signature="1269:1689" ph="..." />
-            <marker date="1497115932000" expanded="true" signature="1278:1403" ph="..." />
-            <marker date="1497115932000" expanded="true" signature="1412:1539" ph="..." />
-            <marker date="1497115932000" expanded="true" signature="1548:1680" ph="..." />
-            <marker date="1497115932000" expanded="true" signature="2515:3667" ph="..." />
-            <marker date="1497115932000" expanded="true" signature="2523:3658" ph="..." />
-            <marker date="1497115932000" expanded="true" signature="2580:3648" ph="..." />
-            <marker date="1497115932000" expanded="true" signature="2590:2934" ph="..." />
-            <marker date="1497115932000" expanded="true" signature="2669:2923" ph="..." />
-            <marker date="1497115932000" expanded="true" signature="2770:2910" ph="..." />
-            <marker date="1497115932000" expanded="true" signature="2944:3285" ph="..." />
-            <marker date="1497115932000" expanded="true" signature="3020:3274" ph="..." />
-            <marker date="1497115932000" expanded="true" signature="3121:3261" ph="..." />
-            <marker date="1497115932000" expanded="true" signature="3295:3638" ph="..." />
-            <marker date="1497115932000" expanded="true" signature="3373:3627" ph="..." />
-            <marker date="1497115932000" expanded="true" signature="3474:3614" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/4df11991-6510-4728-9a29-5c80d838736c/console.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movie-details.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="55" column="16" selection-start-line="41" selection-start-column="12" selection-end-line="55" selection-end-column="16" />
           <folding />
         </state>
       </provider>
@@ -530,16 +687,282 @@
         </state>
       </provider>
     </entry>
+    <entry file="dbDummy://dbtable:/d48508ee/4df11991-6510-4728-9a29-5c80d838736c/MyMovie.film_comment">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog-single-post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="156" column="23" selection-start-line="156" selection-start-column="23" selection-end-line="156" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bolg-single-twofilm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movies.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="75" column="12" selection-start-line="75" selection-start-column="12" selection-end-line="93" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1395">
+          <caret line="93" column="12" selection-start-line="93" selection-start-column="12" selection-end-line="93" selection-end-column="12" />
+          <folding>
+            <marker date="1497124743000" expanded="true" signature="2893:3999" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog-single-twofilm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="183" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-21">
+          <caret line="81" column="50" selection-start-line="81" selection-start-column="50" selection-end-line="81" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twoBlog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1095">
+          <caret line="74" column="0" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Film.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="24" column="84" selection-start-line="24" selection-start-column="84" selection-end-line="24" selection-end-column="84" />
+        <state relative-caret-position="225">
+          <caret line="613" column="5" selection-start-line="613" selection-start-column="5" selection-end-line="613" selection-end-column="5" />
           <folding>
-            <marker date="1497113799000" expanded="true" signature="463:505" ph="select name film_info" />
-            <marker date="1497113799000" expanded="true" signature="463:515" ph="select name film_info" />
-            <marker date="1497113799000" expanded="true" signature="515:517" ph="select name film_info" />
-            <marker date="1497113799000" expanded="true" signature="612:664" ph="select name film_info" />
+            <marker date="1497130806000" expanded="true" signature="463:505" ph="select name film_info" />
+            <marker date="1497130806000" expanded="true" signature="463:515" ph="select name film_info" />
+            <marker date="1497130806000" expanded="true" signature="515:517" ph="select name film_info" />
+            <marker date="1497130806000" expanded="true" signature="613:672" ph="select descr... film_info" />
+            <marker date="1497130806000" expanded="true" signature="770:821" ph="select name film_info" />
+            <marker date="1497130806000" expanded="true" signature="919:978" ph="select descr... film_info" />
+            <marker date="1497130806000" expanded="true" signature="1078:1130" ph="select name film_info" />
+            <marker date="1497130806000" expanded="true" signature="1229:1287" ph="select descr... film_info" />
+            <marker date="1497130806000" expanded="true" signature="1388:1440" ph="select name film_info" />
+            <marker date="1497130806000" expanded="true" signature="1537:1595" ph="select descr... film_info" />
+            <marker date="1497130806000" expanded="true" signature="1695:1747" ph="select name film_info" />
+            <marker date="1497130806000" expanded="true" signature="1844:1903" ph="select descr... film_info" />
+            <marker date="1497130806000" expanded="true" signature="2002:2054" ph="select name film_info" />
+            <marker date="1497130806000" expanded="true" signature="2151:2210" ph="select descr... film_info" />
+            <marker date="1497130806000" expanded="true" signature="2309:2361" ph="select name film_info" />
+            <marker date="1497130806000" expanded="true" signature="2460:2519" ph="select descr... film_info" />
+            <marker date="1497130806000" expanded="true" signature="2621:2673" ph="select name film_info" />
+            <marker date="1497130806000" expanded="true" signature="2772:2830" ph="select descr... film_info" />
+            <marker date="1497130806000" expanded="true" signature="2930:2982" ph="select name film_info" />
+            <marker date="1497130806000" expanded="true" signature="3080:3138" ph="select descr... film_info" />
+            <marker date="1497130806000" expanded="true" signature="3236:3291" ph="select direc... film_info" />
+            <marker date="1497130806000" expanded="true" signature="3388:3440" ph="select actor... film_info" />
+            <marker date="1497130806000" expanded="true" signature="3537:3593" ph="select show_... film_info" />
+            <marker date="1497130806000" expanded="true" signature="3539:3593" ph="select actor... film_info" />
+            <marker date="1497130806000" expanded="true" signature="3691:3743" ph="select score... film_info" />
+            <marker date="1497130806000" expanded="true" signature="3840:3895" ph="select durat... film_info" />
+            <marker date="1497130806000" expanded="true" signature="3993:4048" ph="select direc... film_info" />
+            <marker date="1497130806000" expanded="true" signature="4145:4197" ph="select actor... film_info" />
+            <marker date="1497130806000" expanded="true" signature="4294:4350" ph="select show_... film_info" />
+            <marker date="1497130806000" expanded="true" signature="4448:4500" ph="select score... film_info" />
+            <marker date="1497130806000" expanded="true" signature="4597:4652" ph="select durat... film_info" />
+            <marker date="1497130806000" expanded="true" signature="4756:4811" ph="select direc... film_info" />
+            <marker date="1497130806000" expanded="true" signature="4910:4962" ph="select actor... film_info" />
+            <marker date="1497130806000" expanded="true" signature="5061:5117" ph="select show_... film_info" />
+            <marker date="1497130806000" expanded="true" signature="5217:5269" ph="select score... film_info" />
+            <marker date="1497130806000" expanded="true" signature="5368:5423" ph="select durat... film_info" />
+            <marker date="1497130806000" expanded="true" signature="5524:5579" ph="select direc... film_info" />
+            <marker date="1497130806000" expanded="true" signature="5677:5729" ph="select actor... film_info" />
+            <marker date="1497130806000" expanded="true" signature="5827:5883" ph="select show_... film_info" />
+            <marker date="1497130806000" expanded="true" signature="5982:6034" ph="select score... film_info" />
+            <marker date="1497130806000" expanded="true" signature="6132:6187" ph="select durat... film_info" />
+            <marker date="1497130806000" expanded="true" signature="6287:6342" ph="select direc... film_info" />
+            <marker date="1497130806000" expanded="true" signature="6440:6492" ph="select actor... film_info" />
+            <marker date="1497130806000" expanded="true" signature="6590:6646" ph="select show_... film_info" />
+            <marker date="1497130806000" expanded="true" signature="6745:6797" ph="select score... film_info" />
+            <marker date="1497130806000" expanded="true" signature="6895:6950" ph="select durat... film_info" />
+            <marker date="1497130806000" expanded="true" signature="7049:7104" ph="select direc... film_info" />
+            <marker date="1497130806000" expanded="true" signature="7201:7253" ph="select actor... film_info" />
+            <marker date="1497130806000" expanded="true" signature="7350:7406" ph="select show_... film_info" />
+            <marker date="1497130806000" expanded="true" signature="7504:7556" ph="select score... film_info" />
+            <marker date="1497130806000" expanded="true" signature="7653:7708" ph="select durat... film_info" />
+            <marker date="1497130806000" expanded="true" signature="7811:7866" ph="select direc... film_info" />
+            <marker date="1497130806000" expanded="true" signature="7965:8017" ph="select actor... film_info" />
+            <marker date="1497130806000" expanded="true" signature="8116:8172" ph="select show_... film_info" />
+            <marker date="1497130806000" expanded="true" signature="8272:8324" ph="select score... film_info" />
+            <marker date="1497130806000" expanded="true" signature="8423:8478" ph="select durat... film_info" />
+            <marker date="1497130806000" expanded="true" signature="8579:8634" ph="select direc... film_info" />
+            <marker date="1497130806000" expanded="true" signature="8733:8785" ph="select actor... film_info" />
+            <marker date="1497130806000" expanded="true" signature="8884:8940" ph="select show_... film_info" />
+            <marker date="1497130806000" expanded="true" signature="9040:9092" ph="select score... film_info" />
+            <marker date="1497130806000" expanded="true" signature="9191:9246" ph="select durat... film_info" />
+            <marker date="1497130806000" expanded="true" signature="9346:9401" ph="select direc... film_info" />
+            <marker date="1497130806000" expanded="true" signature="9499:9551" ph="select actor... film_info" />
+            <marker date="1497130806000" expanded="true" signature="9649:9705" ph="select show_... film_info" />
+            <marker date="1497130806000" expanded="true" signature="9804:9856" ph="select score... film_info" />
+            <marker date="1497130806000" expanded="true" signature="9954:10009" ph="select durat... film_info" />
+            <marker date="1497130806000" expanded="true" signature="10108:10160" ph="select types... film_info" />
+            <marker date="1497130806000" expanded="true" signature="10257:10309" ph="select types... film_info" />
+            <marker date="1497130806000" expanded="true" signature="10408:10460" ph="select types... film_info" />
+            <marker date="1497130806000" expanded="true" signature="10558:10610" ph="select types... film_info" />
+            <marker date="1497130806000" expanded="true" signature="10708:10760" ph="select types... film_info" />
+            <marker date="1497130806000" expanded="true" signature="10857:10909" ph="select types... film_info" />
+            <marker date="1497130806000" expanded="true" signature="11009:11061" ph="select types... film_info" />
+            <marker date="1497130806000" expanded="true" signature="11161:11213" ph="select types... film_info" />
+            <marker date="1497130806000" expanded="true" signature="11312:11364" ph="select types... film_info" />
+            <marker date="1497130806000" expanded="true" signature="11465:11520" ph="select conte... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="11619:11671" ph="select s fro... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="11771:11824" ph="select score... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="11924:11978" ph="select usefu... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="12077:12132" ph="select conte... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="12231:12283" ph="select user film_comment" />
+            <marker date="1497130806000" expanded="true" signature="12383:12436" ph="select score... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="12536:12590" ph="select usefu... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="12690:12745" ph="select conte... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="12844:12896" ph="select user film_comment" />
+            <marker date="1497130806000" expanded="true" signature="12996:13049" ph="select score... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="13149:13203" ph="select usefu... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="13303:13358" ph="select conte... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="13457:13509" ph="select user film_comment" />
+            <marker date="1497130806000" expanded="true" signature="13609:13662" ph="select score... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="13762:13816" ph="select usefu... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="13915:13970" ph="select conte... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="14069:14121" ph="select user film_comment" />
+            <marker date="1497130806000" expanded="true" signature="14221:14274" ph="select score... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="14374:14428" ph="select usefu... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="14528:14585" ph="select conte... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="14684:14738" ph="select user film_comment" />
+            <marker date="1497130806000" expanded="true" signature="14838:14893" ph="select score... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="14993:15049" ph="select usefu... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="15148:15205" ph="select conte... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="15304:15358" ph="select user film_comment" />
+            <marker date="1497130806000" expanded="true" signature="15458:15513" ph="select score... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="15613:15669" ph="select usefu... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="15769:15826" ph="select conte... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="15925:15979" ph="select user film_comment" />
+            <marker date="1497130806000" expanded="true" signature="16079:16134" ph="select score... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="16234:16290" ph="select usefu... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="16390:16447" ph="select conte... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="16546:16600" ph="select user film_comment" />
+            <marker date="1497130806000" expanded="true" signature="16700:16755" ph="select score... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="16855:16911" ph="select usefu... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="17010:17067" ph="select conte... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="17166:17220" ph="select user film_comment" />
+            <marker date="1497130806000" expanded="true" signature="17320:17375" ph="select score... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="17475:17531" ph="select usefu... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="17634:17691" ph="select conte... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="17792:17846" ph="select user film_comment" />
+            <marker date="1497130806000" expanded="true" signature="17948:18003" ph="select score... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="18106:18162" ph="select usefu... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="18263:18320" ph="select conte... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="18421:18475" ph="select user film_comment" />
+            <marker date="1497130806000" expanded="true" signature="18577:18632" ph="select score... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="18734:18790" ph="select usefu... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="18892:18949" ph="select conte... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="19050:19104" ph="select user film_comment" />
+            <marker date="1497130806000" expanded="true" signature="19206:19261" ph="select score... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="19363:19419" ph="select usefu... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="19521:19578" ph="select conte... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="19679:19733" ph="select user film_comment" />
+            <marker date="1497130806000" expanded="true" signature="19835:19890" ph="select score... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="19992:20048" ph="select usefu... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="20149:20206" ph="select conte... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="20307:20361" ph="select user film_comment" />
+            <marker date="1497130806000" expanded="true" signature="20463:20518" ph="select score... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="20620:20676" ph="select usefu... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="20777:20834" ph="select conte... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="20934:20988" ph="select user film_comment" />
+            <marker date="1497130806000" expanded="true" signature="21089:21144" ph="select score... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="21245:21301" ph="select usefu... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="21401:21458" ph="select conte... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="21558:21612" ph="select user film_comment" />
+            <marker date="1497130806000" expanded="true" signature="21713:21768" ph="select score... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="21869:21925" ph="select usefu... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="22026:22083" ph="select conte... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="22183:22237" ph="select user film_comment" />
+            <marker date="1497130806000" expanded="true" signature="22338:22393" ph="select score... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="22494:22550" ph="select usefu... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="22651:22708" ph="select conte... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="22808:22862" ph="select user film_comment" />
+            <marker date="1497130806000" expanded="true" signature="22963:23018" ph="select score... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="23119:23175" ph="select usefu... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="23275:23332" ph="select conte... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="23432:23486" ph="select user film_comment" />
+            <marker date="1497130806000" expanded="true" signature="23587:23642" ph="select score... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="23743:23799" ph="select usefu... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="23902:23959" ph="select conte... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="24059:24113" ph="select user film_comment" />
+            <marker date="1497130806000" expanded="true" signature="24214:24269" ph="select score... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="24370:24426" ph="select usefu... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="24526:24583" ph="select conte... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="24683:24737" ph="select user film_comment" />
+            <marker date="1497130806000" expanded="true" signature="24838:24893" ph="select score... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="24994:25050" ph="select usefu... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="25151:25208" ph="select conte... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="25308:25362" ph="select user film_comment" />
+            <marker date="1497130806000" expanded="true" signature="25463:25518" ph="select score... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="25619:25675" ph="select usefu... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="25776:25833" ph="select conte... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="25933:25987" ph="select user film_comment" />
+            <marker date="1497130806000" expanded="true" signature="26088:26143" ph="select score... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="26244:26300" ph="select usefu... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="26400:26457" ph="select conte... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="26557:26611" ph="select user film_comment" />
+            <marker date="1497130806000" expanded="true" signature="26712:26767" ph="select score... film_comment" />
+            <marker date="1497130806000" expanded="true" signature="26868:26924" ph="select usefu... film_comment" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog-single-fivefilm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="106" column="20" selection-start-line="106" selection-start-column="20" selection-end-line="106" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog-single-fourfilm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="106" column="21" selection-start-line="106" selection-start-column="21" selection-end-line="106" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog-single-threefilm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="112" column="21" selection-start-line="112" selection-start-column="21" selection-end-line="112" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
