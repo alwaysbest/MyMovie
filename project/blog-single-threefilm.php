@@ -83,7 +83,7 @@ $twoscoree5= $film->_getThreeScore_5();
 </div>
 <div id="body" class="blog-single">
     <div>
-        <img src="images/trainor3.jpg" alt="">
+        <img src="images/dang_3.png" alt="">
         <div>
             <h4><?php echo $threefilm?></h4>
             <span><?php echo $threedes?></span>

@@ -77,7 +77,7 @@ $twoscoree5= $film->_getFiveScore_5();
 </div>
 <div id="body" class="blog-single">
     <div>
-        <img src="images/trainor3.jpg" alt="">
+        <img src="images/linshi_3.png" alt="">
         <div>
             <h4><?php echo $fivefilm?></h4>
             <span><?php echo $fivedes?></span>

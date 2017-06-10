@@ -62,7 +62,7 @@ $ninedes = $film->_getNineDes();
 	<div id="body" class="home">
 		<div>
 			<div>
-				<a href="movies.php" style="color: #e5e5e5;font-size: 15px"><img src="images/baby-with-dog.jpg" alt=""><?php echo $sixfilm?></a>
+				<a href="movies.php" style="color: #e5e5e5;font-size: 15px"><img src="images/threepig_1.png" alt=""><?php echo $sixfilm?></a>
 				<h2><a href="movies.php"></a></h2>
 				<p>
 					<?php echo $sixdes?>
@@ -72,15 +72,15 @@ $ninedes = $film->_getNineDes();
 			<ul>
 				<li>
 					<h3><?php echo $sevenfilm?></h3>
-					<span></span> <a href="movies.php"><img src="images/surfer.jpg" alt=""></a>
+					<span></span> <a href="movies.php"><img src="images/summer_2.png" alt=""></a>
 				</li>
 				<li>
 					<h3><?php echo $eightfilm?></h3>
-					<span></span> <a href="movies.php"><img src="images/soldiers.jpg" alt=""></a>
+					<span></span> <a href="movies.php"><img src="images/star_2.png" alt=""></a>
 				</li>
 				<li>
 					<h3><?php echo $ninefilm?></h3>
-					<span></span> <a href="movies.php"><img src="images/ballet-dancer.jpg" alt=""></a>
+					<span></span> <a href="movies.php"><img src="images/king_2.png" alt=""></a>
 				</li>
 			</ul>
 		</div>
@@ -89,7 +89,7 @@ $ninedes = $film->_getNineDes();
 				<h3><a href="blog.php">电影简介</a></h3>
 				<ul>
 					<li>
-						<a href="blog.php"><img src="images/trainor.jpg" alt=""></a>
+						<a href="blog.php"><img src="images/chichi_1.png" alt=""></a>
 						<div>
 							<span>Posted on 2017-06-10 by Admin</span>
 							<h4><?php echo $fourfilm?></h4>
@@ -100,7 +100,7 @@ $ninedes = $film->_getNineDes();
 						</div>
 					</li>
 					<li>
-						<a href="blog.php"><img src="images/lava.jpg" alt=""></a>
+						<a href="blog.php"><img src="images/linshi_1.png" alt=""></a>
 						<div>
 							<span>Posted on 2017-06-10 by Admin</span>
 							<h4><?php echo $fivefilm?></h4>
@@ -119,7 +119,7 @@ $ninedes = $film->_getNineDes();
 				<h3><a href="blog.php">电影简介</a></h3>
 				<ul>
 					<li>
-						<a href="blog.php"><img src="images/trainor.jpg" alt=""></a>
+						<a href="blog.php"><img src="images/jialebi_1.png" alt=""></a>
 						<div>
 							<span>Posted on 2017-06-10 by Admin</span>
 							<h4><?php echo $firstfilm?></h4>
@@ -129,7 +129,7 @@ $ninedes = $film->_getNineDes();
 						</div>
 					</li>
 					<li>
-						<a href="blog.php"><img src="images/lava.jpg" alt=""></a>
+						<a href="blog.php"><img src="images/baba_1.png" alt=""></a>
 						<div>
 							<span>Posted on 2017-06-10  by Admin</span>
 							<h4><?php echo $twofilm?></h4>
@@ -139,7 +139,7 @@ $ninedes = $film->_getNineDes();
 						</div>
 					</li>
 					<li>
-						<a href="blog.php"><img src="images/castle.jpg" alt=""></a>
+						<a href="blog.php"><img src="images/dang_1.png" alt=""></a>
 						<div>
 							<span>Posted on 2017-06-10 by Admin</span>
 							<h4><?php echo $threefilm?></h4>

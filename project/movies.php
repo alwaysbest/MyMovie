@@ -71,7 +71,7 @@ $ninetype = $film->_getNineType();
 		<h2>Movies</h2>
 		<ul>
 			<li>
-				<img src="images/baby-with-dog2.jpg" alt="">
+				<img src="images/threepig.png" alt="">
 				<h3><?php echo $sixfilm?></h3>
 				<p>
 					<span>Type:</span> <?php echo $sixtype?>
@@ -94,7 +94,7 @@ $ninetype = $film->_getNineType();
 
 			</li>
 			<li>
-			<img src="images/surfers.jpg" alt="">
+			<img src="images/summer.png" alt="">
 				<h3><?php echo $sevenfilm?></h3>
 				<p>
 					<span>Type:</span> <?php echo $seventype?>
@@ -117,7 +117,7 @@ $ninetype = $film->_getNineType();
 
 			</li>
 			<li>
-				<img src="images/soldiers2.jpg" alt="">
+				<img src="images/star.png" alt="">
 				<h3><?php echo $eightfilm?></h3>
 				<p>
 					<span>Type:</span> <?php echo $eighttype?>
@@ -140,7 +140,7 @@ $ninetype = $film->_getNineType();
 
 			</li>
 			<li>
-				<img src="images/ballet-dancer2.jpg" alt="">
+				<img src="images/king.png" alt="">
 				<h3><?php echo $ninefilm?></h3>
 				<p>
 					<span>Type:</span> <?php echo $ninetype?>

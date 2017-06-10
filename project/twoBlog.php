@@ -55,7 +55,7 @@ $fivetype = $film->_getFiveType();
 <div id="body" class="blog">
     <ul>
         <li>
-            <a href="blog-single-fourfilm.php"><img src="images/trainor2.jpg" alt=""></a>
+            <a href="blog-single-fourfilm.php"><img src="images/chichi_2.png" alt=""></a>
             <div>
                 <div>
                     <h4><a href="blog-single-fourfilm.php"><?php echo $fourfilm?></a></h4>
@@ -66,7 +66,7 @@ $fivetype = $film->_getFiveType();
             </div>
         </li>
         <li>
-            <a href="blog-single-fivefilm.php"><img src="images/lava2.jpg" alt=""></a>
+            <a href="blog-single-fivefilm.php"><img src="images/linshi_2.png" alt=""></a>
             <div>
                 <div>
                     <h4><a href="blog-single-fivefilm.php"><?php echo $fivefilm?></a></h4>

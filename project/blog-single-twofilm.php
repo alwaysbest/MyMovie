@@ -1,10 +1,5 @@
 
-/**
- * Created by PhpStorm.
- * User: liuyin
- * Date: 2017/6/11
- * Time: 上午5:04
- */
+
 <!DOCTYPE html>
 
 <html>
@@ -90,7 +85,7 @@ $twoscoree5= $film->_getTwoScore_5();
 </div>
 <div id="body" class="blog-single">
     <div>
-        <img src="images/trainor3.jpg" alt="">
+        <img src="images/baba_3.png" alt="">
         <div>
             <h4><?php echo $twofilm?></h4>
             <span><?php echo $twodes?></span>
